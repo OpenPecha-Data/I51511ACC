@@ -1,0 +1,37 @@
+id: I51511ACC
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:36:52.956860'
+last_modified: '2022-06-18T20:36:52.956871'
+parser: null
+source_metadata:
+  title: Hagiography of dPal ldan bla ma Ku ma ra ma ti (1372–1475)
+  author: གསེར་མདོག་པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན།
+  description: 'Digital version 4.0 {Tibetan}; master xml (completed: 2012-09); head
+    entries supplemented and linebreaks encoded, revision in process, no thematic
+    TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Volker Caumanns (vc), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/360
+  bases:
+    40c7:
+      title: Hagiography of dPal ldan bla ma Ku ma ra ma ti (1372–1475)
+      order: 1
+      base_file: 40c7.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
